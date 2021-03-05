@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório do curso de Git e GitHub
 
-repositório criado durante uma aula!
+repositório criado durante uma aula, usando windows
